@@ -1,3 +1,5 @@
+/* Use a@a.a for email, aaa for password, or b@b.b for email, bbb for password.
+
 Our names, student numbers, set, and email addresses:
 
 	- Zhuo Ning A00963311 set1C zning3@my.bcit.ca
